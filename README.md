@@ -1,6 +1,6 @@
 Noodles Crypto Analytics Platform
 
-Dashboard screenshot: Screenshots-Executive-Dashboard.png.png
+Dashboard screenshot: Screenshots-Executive-Dashboard.png
 
 ## Project Overview
 
